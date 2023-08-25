@@ -11,7 +11,9 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
 1. Certifique-se de ter o Node.js instalado em sua máquina.
 
 2. Na pasta raiz do projeto, abra um terminal e execute o seguinte comando para instalar as dependências
-3. necessárias:
+necessárias:
+
+npm install react-router-dom react-icons
 
 Após a instalação das dependências, execute o seguinte comando para iniciar o projeto:
 
