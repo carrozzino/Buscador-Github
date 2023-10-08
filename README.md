@@ -13,7 +13,7 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
 2. Na pasta raiz do projeto, abra um terminal e execute o seguinte comando para instalar as dependências
 necessárias:
 
-npm install react-router-dom react-icons
+npm i
 
 Após a instalação das dependências, execute o seguinte comando para iniciar o projeto:
 
